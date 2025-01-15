@@ -1,0 +1,1 @@
+print(max(input('enter a sentences').split(),key=len))
